@@ -23,7 +23,8 @@ Follow these instructions to set up and run the Todo App on your local machine.
 
 Prerequisites
 Make sure you have Flutter installed on your machine. If not, follow the installation instructions here.
-Installation
+https://docs.flutter.dev/get-started/install
+
 Clone the repository:
 git clone https://github.com/uneeb1/todo_app.git
 Navigate to the project directory:
