@@ -34,14 +34,14 @@ Clone the repository:
 git clone https://github.com/uneeb1/todo_app.git
 Navigate to the project directory:
 cd todo_app
+
 Install dependencies:
 flutter pub get
+
 Usage
 Run the app on an emulator or connected device:
 flutter run
 The app should launch on your device/emulator, allowing you to interact with it.
-Screenshots
-Include screenshots of the app to showcase its features.
 
 
 Acknowledgments
