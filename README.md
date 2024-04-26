@@ -1,30 +1,24 @@
-# todo_app
+## Todo App
 
-A new Flutter project.
+The Todo App is a simple yet efficient task management application designed to help users organize their daily tasks effectively. With intuitive features and a user-friendly interface, this app streamlines the task management process, allowing users to stay productive and focused on their goals.
+
+Key Features:
+
+Task Management: Create, update, and delete tasks effortlessly.
+Deadline Tracking: Set deadlines for tasks to prioritize your workload.
+Category Classification: Categorize tasks into different categories for better organization.
+Responsive Design: Enjoy a seamless experience across various devices with responsive design.
+User-Friendly Interface: Intuitive and easy-to-use interface for a smooth user experience.
+How to Use:
+
+Create a Task: Click on the "Add Task" button to create a new task. Enter the task title, description, select a category, and set a deadline if necessary. Click "Save" to add the task to your list.
+Update a Task: Click on the task you want to update from the task list. Make the necessary changes to the task details and click "Save" to update the task.
+Delete a Task: Swipe left on the task you want to delete from the task list and click on the delete icon to remove the task.
+Sort Tasks: Use the sorting options available to organize tasks by deadline, category, or custom order.
+View Task Details: Tap on a task to view its details, including the title, description, deadline, and category.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-Todo App
-Todo App is a simple mobile application built with Flutter that allows users to manage their tasks and to-do lists effectively.
-
-Features
-Add new tasks with titles, descriptions, deadlines, and categories.
-Edit existing tasks to update their details.
-Mark tasks as completed.
-Delete tasks that are no longer needed.
-Sort tasks by deadline, category, or custom order.
-Attractive and responsive user interface.
-Getting Started
 Follow these instructions to set up and run the Todo App on your local machine.
 
 Prerequisites
@@ -35,10 +29,10 @@ git clone https://github.com/uneeb1/todo_app.git
 Navigate to the project directory:
 cd todo_app
 
-Install dependencies:
+## Install dependencies:
 flutter pub get
 
-Usage
+## Usage
 Run the app on an emulator or connected device:
 flutter run
 The app should launch on your device/emulator, allowing you to interact with it.
